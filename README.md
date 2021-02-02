@@ -24,3 +24,6 @@ _italic_
 - kjnjhjhjh
 - kjnjhhuuh
 - jjkjkjkj
+~~~
+print("jjgg")
+~~~
