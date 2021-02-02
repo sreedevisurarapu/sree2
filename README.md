@@ -37,3 +37,5 @@ print("jhh")
 [amazon](https://www.amazon.in/)
 [ajo](://www.ajio.chttpsom)
 ![image](https://github.com/sreedevisurarapu/sree2/blob/master/sree.jfif)
+## video
+[![video]((https://img.youtube.com/vi/c3gKvaEdOyw/0.jpg)](https://www.youtube.com/watch?v=c3gKvaEdOyw)
