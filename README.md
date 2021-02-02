@@ -8,3 +8,4 @@ markdown syntax
 __blod__
 *italic style*
 _italic_
+##https://www.markdownguide.org/getting-started/
