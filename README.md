@@ -21,3 +21,15 @@ _italic_
     1. sreeeeee
     2. ggfgjg
 3. swarna
+## unorded list
+- hjjgsd
+- hhbgh
+- jjxsghgh
+## coding
+~~~
+print("hello")
+~~~
+~~~
+print("jhghg")
+print("jkjhkghgh")
+~~~
