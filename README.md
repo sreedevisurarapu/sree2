@@ -5,6 +5,6 @@ markdown syntax
 ##### heading
 # bold in italic
 **used for bold font syntax**
---blod--
+__blod__
 *italic style*
-_italic-
+_italic_
